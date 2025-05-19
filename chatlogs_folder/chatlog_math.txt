@@ -1,0 +1,6 @@
+User: Hi!
+AI: Hello! How can I help you today?
+User: Can you explain what calculus is?
+AI: Certainly! Calculus is a branch of mathematics that studies continuous change.
+User: What are derivatives used for?
+AI: Derivatives are used to determine rates of change and slopes of curves.

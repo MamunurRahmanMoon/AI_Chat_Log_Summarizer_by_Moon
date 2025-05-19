@@ -1,0 +1,6 @@
+User: Hi there!
+AI: Hello! How can I help you with your travel plans?
+User: What are the best places to visit in Paris?
+AI: Some top attractions in Paris include the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral.
+User: What is the best time to travel to Paris?
+AI: The best time to visit Paris is during the spring (April to June) or fall (September to November) for pleasant weather and fewer crowds.
