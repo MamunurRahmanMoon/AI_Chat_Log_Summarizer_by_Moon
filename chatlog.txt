@@ -1,0 +1,7 @@
+User: Hi, can you tell me about Python? and
+why do we need it?
+AI: Sure! Python is a popular programming language known for
+its readability.
+User: What can I use it for?
+AI: You can use Python for web development, data analysis,
+AI, and more.
