@@ -14,6 +14,7 @@ An app for summarizing AI chat logs using two approaches:
 
 - 3. As per the requirement for the **Bonus Part** built the **Approach-2** `ai_chat_log_summarizer(Approach-2).ipynb` using the power of **TF-IDF** and **NLTK Library**
        * For better keyword extraction a **custom stopword list**, **lemmatized docs** were created
+       * **Manually fine-tuned the ngram range to (2,3**); because m**ost of the topic or main topic can be covered** if atleast two words are vectorized 
          
 - 4. Multiple log file handling added `ai_chat_log_summarizer(Approach-2)_multiple_log.ipynb`: As there were no specific requirement, So I built like Multiple chat log file will be processed at a time in bulk and give summarization for each log
 
